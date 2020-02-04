@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "301002477585",
+    "firebase_url": "https://one8-d8a23.firebaseio.com",
+    "project_id": "one8-d8a23",
+    "storage_bucket": "one8-d8a23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301002477585:android:8f7b35be6e1219a4e9e1b0",
+        "android_client_info": {
+          "package_name": "com.example.one8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301002477585-r21rp0bq47ugjhmn2f538mmb8o60lqp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6e4jtUeZK4qyI8dGH2Wtm4ZwwcT2rjUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301002477585-r21rp0bq47ugjhmn2f538mmb8o60lqp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
